@@ -1,0 +1,155 @@
+.menu-item {
+    padding: 5px;
+    font-family: sans-serif;
+}
+
+.menu-item a {
+    color: darkgreen;
+    font-weight: bolder;
+    text-decoration: none;
+    font-size:larger;
+    padding: 5px;
+}
+
+.nav{
+    margin-left: 40%;
+}
+
+.menu-color{
+    background-color: rgb(255, 255, 255) !important;
+    box-shadow: 0px 3px 3px #aaa;
+}
+
+#banner{
+    width: 100%;
+}
+
+
+
+.box1{
+    color: white;
+    background-color: #1e3932;
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    margin: auto;
+    font-size: 120%;
+    font-family: sans-serif;
+    width: 100%;
+    
+}
+
+.box1 h1{
+    font-family:  serif;
+}
+
+.button1{
+    color: white;
+    background-color: rgb(0, 112, 36);
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    transition: 0.2s ease-in-out;
+}
+
+.button1:hover{
+    background-color: #15ff00;
+    color: rgb(0, 0, 0);
+}
+
+
+.img1{
+    background-image: url('../images/cimp_intro.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.box2{
+    color: rgb(0, 0, 0);
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    margin: auto;
+    font-size: 120%;
+    font-family: sans-serif;
+    width: 100%;
+}
+
+.box2 h1{
+    font-family:  serif;
+}
+
+.button2{
+    color: rgb(0, 0, 0);
+    background-color: rgb(57, 244, 101);
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+}
+
+.button2:hover{
+    background-color: #00821a;
+    color: rgb(255, 255, 255);
+    transition: 0.2s ease-in-out;
+}
+
+.img2{
+    background-image: url('../images/cimp_outcome.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#activities{
+    background-image: url('../images/tour-bg.png');
+    background-size: cover;
+    color: white;
+}
+
+h1{
+    font-weight: bold;
+    border: #000000;
+    text-shadow: 
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+}
+
+.card{
+    height: 100%;
+}
+
+h3{
+    font-weight: bold;
+    text-shadow: 
+    -1px -1px 0 #efe4d1,
+    1px -1px 0 #efe4d1,
+    -1px 1px 0 #efe4d1,
+    1px 1px 0 #efe4d1;
+}
+
+.photobox{
+    color: #000000;
+    width: 50px;
+
+}
+
+footer{
+    background-color: #1e3932;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+}
+
+footer h4 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+footer p {
+    margin: 10px 0 0;
+    font-size: 16px;
+    line-height: 1.5;
+}
